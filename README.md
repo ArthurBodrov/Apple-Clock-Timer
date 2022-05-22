@@ -1,3 +1,3 @@
 ### Apple Clock Timer
 
-![Apple Clock Timer](./Apple_Timer/repo_resources/apple_clock.gif)
+<img src="./Apple_Timer/repo_resources/apple_clock.gif" alt="drawing" height="800"/>
